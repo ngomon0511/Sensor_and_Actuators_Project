@@ -4,5 +4,4 @@
 :Revision: version#
 :License: Public Domain
 
-= Link video about this project on YouTube: 
-https://www.youtube.com/watch?v=YaZTEzNyl8k&t=9s
+= Link video about this project on YouTube: https://www.youtube.com/watch?v=YaZTEzNyl8k&t=9s
